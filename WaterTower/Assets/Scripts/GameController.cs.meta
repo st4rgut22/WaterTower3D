@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9ee72c7dfbaa4ef89da3a630a738529
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterTower: {fileID: 1626913035384518, guid: dd186214cb861447bb3d100c44ba56ba,
+      type: 2}
+  - follower: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
